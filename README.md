@@ -3,4 +3,7 @@ Ini jawaban yang bisa saya kerjakan semaksimal mungkin. Saya menjawabnya dengan 
 
 Berikut jawaban dari soal yang diberikan:
 1. Rest API
-2. kegunaan JSON pada REST API
+   
+   
+2. Kegunaan JSON pada REST API
+   Merupakan format respon dari REST API yang populer digunakan
